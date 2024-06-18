@@ -1,0 +1,10 @@
+python == 3.10
+pytorch == 2.0
+pytorch-cuda  == 11.7
+torchvision == 0.15.1                                       
+scikit-imag == 0.22
+numpy == 1.23             
+mlflow == 2.13                      
+opencv-python == 4.9 
+pillow == 10.2                                                          
+

@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/cookiecutter_mlflow/mlflow-master/mlflow-master/examples/cookiecutter/mlruns/0/497b2f608fe54466ab3595ddb0243843/artifacts
+end_time: 1717992205385
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 497b2f608fe54466ab3595ddb0243843
+run_name: indecisive-bat-282
+run_uuid: 497b2f608fe54466ab3595ddb0243843
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717992205344
+status: 3
+tags: []
+user_id: siliconarts

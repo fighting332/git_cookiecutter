@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/cookiecutter_mlflow/mlflow-master/mlflow-master/examples/cookiecutter/mlruns/0/fe019dcfd1904ecba762196831463833/artifacts
+end_time: 1717992230946
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fe019dcfd1904ecba762196831463833
+run_name: abrasive-cod-222
+run_uuid: fe019dcfd1904ecba762196831463833
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717992230907
+status: 3
+tags: []
+user_id: siliconarts
